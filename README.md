@@ -1,4 +1,5 @@
-# Raw scalars example TensorBoard plugin
+# Protein-Viz TensorBoard plugin
+WIP: A Tensorboard plugin for interactive protein visualization.
 
 ## Overview
 
